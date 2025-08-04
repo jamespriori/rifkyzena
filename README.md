@@ -1,29 +1,21 @@
-# "When the music plays, the sun shall stay."
+# "I swear to you that to think too much is a disease, a real, actual disease."
 
-- 👀 I’m interested in Web Programming and Indie Game Development
-- 🌱 I have finished my computer science studies and will be graduating on November 2024
-- 📫 How to reach me --> Discord: bloody_caltrop
+- 👀 Rotating between Backend Development, Software QA, and general administration 
+- 🌱 Computer Science Graduate from Bina Nusantara University (October 2024)
+- 📫 Help me learn how to make friends, ruminate less, and be a more accountable person --> Discord: bloody_caltrop
 
 ## General Skills
-🎮 **Programming Language**
-- C#
-- Java
-- JavaScript
+🎮 **Tech Stack**  
+Java, SQL, Spring Boot, Python, HTML, CSS, JavaScript, C#
 
-🛠️ **Frameworks**
-- React
-- Node.js
+🛠️ **Tools and Software**  
+Microsoft Office, Canva, Postman, Selenium, Unity
 
-🪨 **Tools**
-- Postman
-- Jira
-- Selenium
-- Zephyr
-- JMeter
-- Katalon
-
-🛢️ **Database**
-- SQL
+🛢️ **Certification**
+- [September 2024] TOEFL ITP – Educational Testing Service – Score 613/677 (C1 Level)
+- [August 2024] Udemy – The Complete 2024 Software Testing Bootcamp
+- [Oktober 2023] Udemy – Complete C# Unity Game Developer 2D Oktober 2023
+- [September 2023] BUMN Magenta – Program Magang Mahasiswa Bersertifikat (PMMB) September 2023
 
 [![Rifky Zena's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkyzena&theme=tokyonight)](https://github.com/rifkyzena/github-readme-stats)
 
