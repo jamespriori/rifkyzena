@@ -3,6 +3,7 @@
 - 👀 Rotating between Backend Development, Software QA, and general administration 
 - 🌱 Computer Science Graduate from Bina Nusantara University (October 2024)
 - 📫 Help me learn how to make friends, ruminate less, and be a more accountable person --> Discord: bloody_caltrop
+- 💸 $1000 for anyone who can help me get a remote job at a game studio.
 
 ## General Skills
 🎮 **Tech Stack**  
