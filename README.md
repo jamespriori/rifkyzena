@@ -1,13 +1,13 @@
 # "I swear to you that to think too much is a disease, a real, actual disease."
 
-- 👀 Rotating between Backend Development, Software QA, and general administration 
+- 👀 Rotating between Software QA, Japanese language, Joymaxxing, and general administration 
 - 🌱 Computer Science Graduate from Bina Nusantara University (October 2024)
 - 📫 Help me learn how to make friends, ruminate less, and be a more accountable person --> Discord: bloody_caltrop
-- 💸 $1000 for anyone who can help me get a remote job at a game studio.
+- 💸 $100 for anyone who can help me get a remote job at a game studio.
 
 ## General Skills
 🎮 **Tech Stack**  
-Java, SQL, Spring Boot, Python, HTML, CSS, JavaScript, C#
+Java, SQL, Python, HTML, CSS, JavaScript, C#, Laravel
 
 🛠️ **Tools and Software**  
 Microsoft Office, Canva, Postman, Selenium, Unity
